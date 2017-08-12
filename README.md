@@ -6,6 +6,9 @@ Usamos 3 classificadores pertencentes a ferramenta WEKA a fim realizar o experim
 No trabalho fizemos também, para exemplificar, representações gráficas scatter plot e  boxplot a fim de facilitar a visualização do arranjo de dados. Assim como anotar as médias, desvios padrão, moda, mediana,  cutose e obliquidade para cada um dos atributos usados.
 
 # Banco de dados
+Voce precisa de permissão de aceso:
+https://archive.ics.uci.edu/ml/datasets/primary+tumor
+https://archive.ics.uci.edu/ml/datasets/Lymphography
 O objetivo do trabalho é descrever a base de dados e os algritmos utilizados analizando os resultados comparativamente, das duas bases retiradas do site UCI (http://archive.ics.uci.edu/ml/datasets.html).
 Iremos utilizar duas bases de dados, iremos trabalhar os atributos e filtros sobre eles além de analizar e comparar as técnicas discutidas. 
 Foi escolhido a base Lymphoma (http://www.upo.es/eps/bigs/dataSet/Lymphoma45x4026+2classes.arff) e 
