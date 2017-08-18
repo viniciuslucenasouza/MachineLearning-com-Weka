@@ -6,6 +6,15 @@ Usamos 3 classificadores pertencentes a ferramenta WEKA a fim realizar o experim
 No trabalho fizemos também, para exemplificar, representações gráficas scatter plot e  boxplot a fim de facilitar a visualização do arranjo de dados. Assim como anotar as médias, desvios padrão, moda, mediana,  cutose e obliquidade para cada um dos atributos usados.
 
 # Banco de dados
+EDIT
+You may find at:
+http://www.sgi.com/tech/mlc/db/lymphography.all
+http://www.sgi.com/tech/mlc/db/lymphography.data
+http://www.sgi.com/tech/mlc/db/lymphography.names
+http://www.sgi.com/tech/mlc/db/lymphography.test
+And You may find at:
+http://www.cs.umb.edu/~rickb/files/UCI/primary-tumor.arff
+
 Voce precisa de permissão de aceso:
 https://archive.ics.uci.edu/ml/datasets/primary+tumor
 https://archive.ics.uci.edu/ml/datasets/Lymphography
