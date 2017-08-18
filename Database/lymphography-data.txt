@@ -1,3 +1,10 @@
+#Edit
+You may find at:
+http://www.sgi.com/tech/mlc/db/lymphography.all
+http://www.sgi.com/tech/mlc/db/lymphography.data
+http://www.sgi.com/tech/mlc/db/lymphography.names
+http://www.sgi.com/tech/mlc/db/lymphography.test
+
 This is a restricted data set.  To access this dataset, please send a 
 request to ml-repository 'at' ics 'dot' uci 'dot' edu 
 
